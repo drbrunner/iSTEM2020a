@@ -1,4 +1,4 @@
-ith// Adafruit IO Digital Input Example
+// Adafruit IO Digital Input Example
 // Tutorial Link: https://learn.adafruit.com/adafruit-io-basics-digital-input
 //
 // Adafruit invests time and resources providing this open source code.
@@ -10,6 +10,7 @@ ith// Adafruit IO Digital Input Example
 // Licensed under the MIT license.
 //
 // All text above must be included in any redistribution.
+// I showed this to Year 10 when using GitHub
 
 /************************** Configuration ***********************************/
 
